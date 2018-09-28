@@ -3,6 +3,8 @@
 Domain | Description | IP
 ------ | ----------- | --
 voipit.nl | The registered domain name | -
+asb-01.voipit.nl | - | 172.31.160.2
+asb-02.voipit.nl | - | 172.31.160.130
 beheer.voipit.nl | Beheersportaal | 89.146.37.134
 billingportal.voipit.nl | Betaalportaal | 46.44.162.254
 cai.voipit.nl | - | 89.146.63.180 
@@ -12,6 +14,8 @@ prov.lab.voipit.nl | - | 89.146.53.129
 web.lab.voipit.nl | - | 89.146.53.128
 ns.voipit.nl | Network Server | 172.31.160.129
 partners.voipit.nl | - | 89.146.1.56
+partners1-tc1.voipit.nl | - | 89.146.1.55
+partners1-tc2.voipit.nl | - | 89.146.1.56
 portal.voipit.nl | (HTTP redirects to beheer.voipit.nl) | 89.146.43.81
 sp.voipit.nl | - | 89.146.1.56
 webapps.voipit.nl | - | 89.146.1.57
