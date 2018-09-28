@@ -17,7 +17,9 @@ partners.voipit.nl | - | 89.146.1.56
 partners1-tc1.voipit.nl | - | 89.146.1.55
 partners1-tc2.voipit.nl | - | 89.146.1.56
 portal.voipit.nl | (HTTP redirects to beheer.voipit.nl) | 89.146.43.81
+portal2012.voipit.nl | - | 46.44.134.213
 sp.voipit.nl | - | 89.146.1.56
+xsi.uc.voipit.nl | - | 89.146.63.178
 webapps.voipit.nl | - | 89.146.1.57
 ws.voipit.nl | The WebServer (HTTP redirects to ws2.voipit.nl) | 89.146.1.48
 ws1.voipit.nl | WebServer 1 | 89.146.1.48
